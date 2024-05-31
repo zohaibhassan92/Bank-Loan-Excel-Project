@@ -4,16 +4,16 @@ This Project include the following files: <br>
 2.	Dataset <br>
 3.	Screenshot <br>
 
-## Project Detail: 
+### Project Detail: 
 This file contains a comprehensive detail of this project.
 
-## Dataset:
+### Dataset:
 This file have a data related to the project. Passcode of this file is : 332211
 
-## Screenshot:
+### Screenshot:
 This is a screenshot of a project 
 
-## Project YouTube Link
+### Project YouTube Link
 
 Watch the complete project walkthrough on [YouTube](https://youtu.be/uaOU2ik64Ho).
 
@@ -33,5 +33,5 @@ For commercial usage or distribution permissions, please contact me at zohaib.at
 
 Thank you for respecting the author's rights and intellectual property.
 
-Author: 
+Author: <br>
 Zohaib Hassan
